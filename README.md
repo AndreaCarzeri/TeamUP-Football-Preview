@@ -54,9 +54,19 @@ Never miss a game again! **TeamUP FOOTBALL** sends out automatic reminders to al
 
 Check out these demo videos showcasing the key features of **TeamUP FOOTBALL**:
 
+1. **User Registration**
+   ![User Registration](./media/1.gif)
+
+2. **Joining a Match**
+   ![Joining a Match](./media/2.gif)
+
+3. **Viewing Match Details**
+   ![Viewing Match Details](./media/3.gif)
+
+<!--
 1. [User Registration](./media/1.mp4)
 2. [Joining a Match](./media/2.mp4)
-3. [Viewing Match Details](./media/3.mp4)
+3. [Viewing Match Details](./media/3.mp4)-->
 
 ---
 
